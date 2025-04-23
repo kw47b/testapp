@@ -1,24 +1,33 @@
-# README
+# testapp
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サービス概要
 
-Things you may want to cover:
+タップすると音声でディスられるアプリです。
 
-* Ruby version
+## ユーザー層
 
-* System dependencies
+プログラミング初学者
 
-* Configuration
+## サービスコンセプト
 
-* Database creation
+- これからプログラミングを学ぶ方にアプリを作ったという体験を届けたい
+- 初学者向けに難しい技術は使用せず基本の技術のみで実装します
 
-* Database initialization
+## 実装を予定している機能
 
-* How to run the test suite
+- ボタンを押すと音声でディスられる
+- X(旧Twitter)共有機能
 
-* Services (job queues, cache servers, search engines, etc.)
+## 使用予定技術
 
-* Deployment instructions
+- HTML
+- CSS
+- Ruby on Rails
 
-* ...
+## 画面遷移図
+
+画面遷移しないので作成しません
+
+## ER図
+
+データベースを使用しないため作成しません
